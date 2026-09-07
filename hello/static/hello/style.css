@@ -1,0 +1,14 @@
+.title {
+    color: cadetblue;
+}
+
+.subtitle {
+    font-size: 20px;
+    color: gray;
+}
+
+.button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
